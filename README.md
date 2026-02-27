@@ -25,7 +25,7 @@ From the graph the tool:
 
 3. Projects an **executable audit plan** with an API to intergate with AI agent systems or manual investigation workflows
 
-4. Projects an **audit report** and associated **executable remediation plan** with an API to intergate with AI agent systems or manual investigation workflows
+4. Projects an **audit report** and associated **executable remediation plan** with an API to intergate with AI agent systems or manual remediation workflows
 
 5. Projects **application security health scores** to celebrate achievements.
 
