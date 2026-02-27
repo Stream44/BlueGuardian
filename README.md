@@ -92,7 +92,7 @@ Project Roadmap
   - [ ] Announce project and attract initial contributor team
 - 2026 Q2
   - [ ] Document viewer & interactive example generation
-  - [ ] Workflow viewer with human in the loop
+  - [ ] Workflow viewer with human-AI loop
   - [ ] Complete prototype running against Juice Shop
     - [ ] First problem automatically identified
     - [ ] First problem automatically fixed
