@@ -45,7 +45,7 @@ Innovation
 
 The emergence of AI and surgance of graph-based data structures enables a new paradigm of knowledge application.
 
-Blue Origin provides a framework to harness AI organizational and agent capabilities towards the domain of application security.
+Blue Guardian provides a framework to harness AI organizational and agent capabilities towards the domain of application security.
 
 With strategic pre-built prompts and code templates in an automated workflow process, the tool can:
 
