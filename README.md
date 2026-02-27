@@ -30,6 +30,17 @@ From the graph the tool:
 5. Projects **application security health scores** to celebrate achievements.
 
 
+AI Agent Integrations
+---
+
+The tool will integrate with various AI agent systems for the purpose of:
+
+- Automatic document ingestion & graph generation
+- Automatic technical visualization generation
+- Automatic investigation
+- Automatic remediation
+
+
 Provenance
 ===
 
