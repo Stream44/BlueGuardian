@@ -43,7 +43,7 @@ This leads to lack of security not due to lack of knowledge but lack of ability 
 Innovation
 ---
 
-The emergence of AI and surgance of graph-based data structures enables a new paradigm of knowledge application.
+The emergence of AI and rise of graph-based data structures enables a new paradigm of knowledge application.
 
 Blue Guardian provides a framework to harness AI organizational and agent capabilities towards the domain of application security.
 
