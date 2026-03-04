@@ -112,6 +112,22 @@ The project will be built in the open with a team of contributors adapting it to
 The initial project development path is flexible on purpose and influenced by the interests of contributors.
 
 
+Concept
+---
+
+Below is a preview of the Library section of the tool. It shows how datasets are imported and navigatable with local rendering. The goal is to organize all source documents into a graph with all their attributes so they can be browsed from different perspective. 
+
+There is also a preview of a codepath execution visualization to be used for learning.
+
+<table>
+  <tr>
+    <td><img src="./docs/PreviewLibrary.png"></td>
+    <td><img src="./docs/PreviewLibraryCWE.png"></td>
+    <td><img src="./docs/PreviewCodepath.png"></td>
+  </tr>
+</table>
+
+
 Provenance
 ===
 
