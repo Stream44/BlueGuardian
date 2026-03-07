@@ -5,7 +5,9 @@
 Blue Guardian
 ===
 
-AI-assisted security assessment and remediation workflow tool validated against the [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
+A future-proof logic model driven framework that leverages existing tools and AI agents for security assessment and remediation.
+
+Validated against the [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
 
 The tool helps teams systematically reduce risk rather than just generate findings by connecting discovery and understanding to remediation.
 
